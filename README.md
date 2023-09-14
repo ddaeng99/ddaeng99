@@ -4,8 +4,8 @@
 > E-mail : taeho.kim0218@gmail.com
 
 ## Tech stack
-<img src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 >
