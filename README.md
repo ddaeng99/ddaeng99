@@ -4,10 +4,12 @@
 > E-mail : taeho.kim0218@gmail.com
 
 ## Tech stack
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 > ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 > ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 >
+> <a href="mailto:minseok.jeong.james@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>
+
 > ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 > ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 > ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
