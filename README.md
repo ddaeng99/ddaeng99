@@ -1,12 +1,18 @@
 ## Profile
 > Name : 김태호
+> 
 > E-mail : taeho.kim0218@gmail.com
 
-#
-
-#
-
 ## Tech stack
+> ![로고명](https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+> ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+> ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+
+> ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+> ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+<!-- ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)-->
+
+
 
 ## Algorithm
 >[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
