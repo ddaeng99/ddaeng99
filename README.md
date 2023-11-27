@@ -1,8 +1,6 @@
 ## Profile
 > Name : 김태호
-> 
-> Tech Blog : https://ddaeng99.tistory.com
-> 
+>
 > E-mail : taeho.kim0218@gmail.com
 > 
 <!--
