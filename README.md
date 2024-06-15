@@ -1,8 +1,22 @@
-## Profile
-> Name : 김태호
->
-> E-mail : taeho.kim0218@gmail.com
-> 
+## Hi! I'm Taeho 👋
+Name : 김태호 </br>
+Email : taeho.kim0218@gmail.com
+
+## Certification
+* 정보처리기사
+* SQL 개발자(SQLD : SQL Developer)
+* 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)
+* 파이썬프로그래밍활용능력 2급
+
+## Education
+* 네이버 커넥트 재단 \<DATA SCIENCE PROJECTS> 코칭 스터디 (2024.01 ~ 2024.02) </br>
+* KOSA_빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성과정 (2024.03 ~ )
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py,sklearn)](https://skillicons.dev)
+
+## Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
 <!--
 ## Tech stack
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
